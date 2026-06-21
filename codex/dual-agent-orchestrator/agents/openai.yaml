@@ -1,0 +1,3 @@
+display_name: Dual Agent Orchestrator
+short_description: Coordinate Codex as PM/reviewer and Claude Code as executor.
+default_prompt: Use dual-agent-orchestrator to initialize or review this Codex + Claude Code project workflow.
